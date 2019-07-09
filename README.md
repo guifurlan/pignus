@@ -3,7 +3,8 @@
 Autores: Laura Politi e Guilherme Furlan
 
 Código da API de back-end utilizada no projeto Pignus.
-Pignus é uma solução mobile e IoT para o controle do uso de equipamentos de segurança em empresas. A API é responsável pela comunicação entre os sensores, aplicativos dos smartphones dos técnicos de segurança e o Banco de Dados da aplicação
+Pignus é uma solução mobile e IoT para o controle do uso de equipamentos de segurança em empresas. A API é responsável pela comunicação entre os sensores, aplicativos dos smartphones dos técnicos de segurança e o Banco de Dados da aplicação.
+
 API desenvolvida em python e Flask framework.
 Banco de dados feito usando PostgreSQL e deploy na nuvem através da plataforma Heroku.
 
